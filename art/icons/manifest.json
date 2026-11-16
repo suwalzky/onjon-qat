@@ -1,0 +1,352 @@
+[
+  {
+    "id": "i-sword",
+    "name": "Wręcz",
+    "file": "i-sword.svg"
+  },
+  {
+    "id": "i-bow",
+    "name": "Dystans",
+    "file": "i-bow.svg"
+  },
+  {
+    "id": "i-hero",
+    "name": "Legenda",
+    "file": "i-hero.svg"
+  },
+  {
+    "id": "i-spy",
+    "name": "Szpieg",
+    "file": "i-spy.svg"
+  },
+  {
+    "id": "i-fire",
+    "name": "Płomień",
+    "file": "i-fire.svg"
+  },
+  {
+    "id": "i-med",
+    "name": "Medyk",
+    "file": "i-med.svg"
+  },
+  {
+    "id": "i-bond",
+    "name": "Więź",
+    "file": "i-bond.svg"
+  },
+  {
+    "id": "i-pair",
+    "name": "Para",
+    "file": "i-pair.svg"
+  },
+  {
+    "id": "i-any",
+    "name": "Akrobata",
+    "file": "i-any.svg"
+  },
+  {
+    "id": "i-muster",
+    "name": "Banda",
+    "file": "i-muster.svg"
+  },
+  {
+    "id": "i-mirror",
+    "name": "Lustro",
+    "file": "i-mirror.svg"
+  },
+  {
+    "id": "i-ghost",
+    "name": "Upiór",
+    "file": "i-ghost.svg"
+  },
+  {
+    "id": "i-tangle",
+    "name": "Supeł",
+    "file": "i-tangle.svg"
+  },
+  {
+    "id": "i-egg",
+    "name": "Jajo",
+    "file": "i-egg.svg"
+  },
+  {
+    "id": "i-trill",
+    "name": "Trel",
+    "file": "i-trill.svg"
+  },
+  {
+    "id": "i-hunt",
+    "name": "Obława",
+    "file": "i-hunt.svg"
+  },
+  {
+    "id": "i-resist",
+    "name": "Opór",
+    "file": "i-resist.svg"
+  },
+  {
+    "id": "i-chimi",
+    "name": "Rzut",
+    "file": "i-chimi.svg"
+  },
+  {
+    "id": "i-impostor",
+    "name": "Maska",
+    "file": "i-impostor.svg"
+  },
+  {
+    "id": "i-cheer",
+    "name": "Brawo",
+    "file": "i-cheer.svg"
+  },
+  {
+    "id": "i-speech",
+    "name": "Mowa",
+    "file": "i-speech.svg"
+  },
+  {
+    "id": "i-rob",
+    "name": "Łup",
+    "file": "i-rob.svg"
+  },
+  {
+    "id": "i-swap",
+    "name": "Czary",
+    "file": "i-swap.svg"
+  },
+  {
+    "id": "i-family",
+    "name": "Ród",
+    "file": "i-family.svg"
+  },
+  {
+    "id": "i-bake",
+    "name": "Piec",
+    "file": "i-bake.svg"
+  },
+  {
+    "id": "i-love",
+    "name": "Serce",
+    "file": "i-love.svg"
+  },
+  {
+    "id": "i-adopt",
+    "name": "Dom",
+    "file": "i-adopt.svg"
+  },
+  {
+    "id": "i-summon",
+    "name": "Zew",
+    "file": "i-summon.svg"
+  },
+  {
+    "id": "i-pumpkin",
+    "name": "Dynia",
+    "file": "i-pumpkin.svg"
+  },
+  {
+    "id": "i-trap",
+    "name": "Pułapka",
+    "file": "i-trap.svg"
+  },
+  {
+    "id": "i-trap-shut",
+    "name": "Odkryta pułapka",
+    "file": "i-trap-shut.svg"
+  },
+  {
+    "id": "i-back",
+    "name": "Ukryta pułapka",
+    "file": "i-back.svg"
+  },
+  {
+    "id": "i-spec",
+    "name": "Karta specjalna",
+    "file": "i-spec.svg"
+  },
+  {
+    "id": "Wabik z Marchewką",
+    "name": "Wabik",
+    "file": "wabik-z-marchewka.svg"
+  },
+  {
+    "id": "Ogień z kominka",
+    "name": "Ogień z kominka",
+    "file": "ogien-z-kominka.svg"
+  },
+  {
+    "id": "Kocioł Klątw",
+    "name": "Kocioł klątw",
+    "file": "kociol-klatw.svg"
+  },
+  {
+    "id": "i-x2",
+    "name": "Wzmocnienie ×2",
+    "file": "i-x2.svg"
+  },
+  {
+    "id": "i-wx",
+    "name": "Pogoda",
+    "file": "i-wx.svg"
+  },
+  {
+    "id": "Mgła bagienna",
+    "name": "Mgła aktywna",
+    "file": "mgla-bagienna.svg"
+  },
+  {
+    "id": "Ulewa",
+    "name": "Ulewa aktywna",
+    "file": "ulewa.svg"
+  },
+  {
+    "id": "i-moon",
+    "name": "Księżycowa noc",
+    "file": "i-moon.svg"
+  },
+  {
+    "id": "i-mud",
+    "name": "Błotna kąpiel",
+    "file": "i-mud.svg"
+  },
+  {
+    "id": "i-up",
+    "name": "Wzmocnienie rzędu",
+    "file": "i-up.svg"
+  },
+  {
+    "id": "i-wind",
+    "name": "Chuchnięcie",
+    "file": "i-wind.svg"
+  },
+  {
+    "id": "Ostatnia Kolejka",
+    "name": "Ostatnia Kolejka",
+    "file": "ostatnia-kolejka.svg"
+  },
+  {
+    "id": "i-heart",
+    "name": "Życie",
+    "file": "i-heart.svg"
+  },
+  {
+    "id": "i-hearto",
+    "name": "Utracone życie",
+    "file": "i-hearto.svg"
+  },
+  {
+    "id": "i-cards",
+    "name": "Karty w ręce",
+    "file": "i-cards.svg"
+  },
+  {
+    "id": "i-deck",
+    "name": "Talia",
+    "file": "i-deck.svg"
+  },
+  {
+    "id": "i-tomb",
+    "name": "Cmentarz",
+    "file": "i-tomb.svg"
+  },
+  {
+    "id": "i-flag",
+    "name": "Pas",
+    "file": "i-flag.svg"
+  },
+  {
+    "id": "score",
+    "name": "Wynik rundy",
+    "file": "score.svg"
+  },
+  {
+    "id": "menu",
+    "name": "Menu",
+    "file": "menu.svg"
+  },
+  {
+    "id": "hourglass",
+    "name": "Klepsydra",
+    "file": "hourglass.svg"
+  },
+  {
+    "id": "round",
+    "name": "Runda",
+    "file": "round.svg"
+  },
+  {
+    "id": "Słoneczko",
+    "name": "Wyzwanie dnia",
+    "file": "sloneczko.svg"
+  },
+  {
+    "id": "i-phone",
+    "name": "Na tym urządzeniu",
+    "file": "i-phone.svg"
+  },
+  {
+    "id": "i-globe",
+    "name": "Przez internet",
+    "file": "i-globe.svg"
+  },
+  {
+    "id": "i-dice",
+    "name": "Losowo",
+    "file": "i-dice.svg"
+  },
+  {
+    "id": "i-coin",
+    "name": "Cebuliony",
+    "file": "i-coin.svg"
+  },
+  {
+    "id": "i-snd",
+    "name": "Dźwięk",
+    "file": "i-snd.svg"
+  },
+  {
+    "id": "i-mute",
+    "name": "Dźwięk",
+    "file": "i-mute.svg"
+  },
+  {
+    "id": "onion",
+    "name": "Zapasy",
+    "file": "onion.svg"
+  },
+  {
+    "id": "i-shield",
+    "name": "Bezpieczny trakt",
+    "file": "i-shield.svg"
+  },
+  {
+    "id": "i-star",
+    "name": "Siedlisko elity",
+    "file": "i-star.svg"
+  },
+  {
+    "id": "i-prune",
+    "name": "Odchudź talię",
+    "file": "i-prune.svg"
+  },
+  {
+    "id": "strength-base",
+    "name": "Siła bazowa",
+    "file": "strength-base.svg"
+  },
+  {
+    "id": "strength-weakened",
+    "name": "Osłabiona",
+    "file": "strength-weakened.svg"
+  },
+  {
+    "id": "strength-boosted",
+    "name": "Wzmocniona",
+    "file": "strength-boosted.svg"
+  },
+  {
+    "id": "strength-legend",
+    "name": "Legenda",
+    "file": "strength-legend.svg"
+  }
+]
